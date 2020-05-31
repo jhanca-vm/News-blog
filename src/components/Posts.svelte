@@ -16,7 +16,7 @@
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">{post.title}<i class="material-icons right">close</i></span>
             <p>{post.description}</p>
-            <a class="waves-effect waves-tail btn-flat teal lighten-5 right" href="/">Ir</a>
+            <a class="waves-effect waves-tail btn-flat teal lighten-5 right" href={post.slug}>Ir</a>
           </div>
         </div>
       </article>

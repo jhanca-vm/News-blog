@@ -9,4 +9,4 @@
   }
 </style>
 
-<section class="hero z-depth-2"></section>
+<section class="hero z-depth-2" id="banner"></section>
